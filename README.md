@@ -1,1 +1,1 @@
-# LaunchTemplate
+# LaunchTemplate-CloudFormation
